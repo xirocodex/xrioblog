@@ -13,7 +13,7 @@ export default function PostCard() {
    <div className={styles.top}>
     <div className={styles.imgContainer}>
      <Image
-      src="https://images.pexels.com/photos/13457048/pexels-photo-13457048.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=1"
+      src="banner.jpg"
       fill
       className={styles.img}
 
