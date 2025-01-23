@@ -24,9 +24,10 @@ gap: 20px;
  cursor: pointer;
  border: none;
  border-radius: 5px;
+
 }
 .button:first-child{
- background-color: var(--btn);
+ background-color: yellowgreen;
  color: var(--text);
 }
 .button:last-child{
